@@ -236,7 +236,7 @@ function create_config( )
   print ('saved config into ./data/config.lua')
 end
 
-function on_our_id (148710775)
+function on_our_id (id)
   our_id = id
 end
 
